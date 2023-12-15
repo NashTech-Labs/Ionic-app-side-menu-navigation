@@ -1,0 +1,7 @@
+{
+  "name": "Ionic-app-side-menu-navigation",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
